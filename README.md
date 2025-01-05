@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0015-3sum) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -13,4 +14,8 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0015-3sum) |
+## Binary Search
+|  |
+| ------- |
+| [0882-peak-index-in-a-mountain-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

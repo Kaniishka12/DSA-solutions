@@ -1,0 +1,23 @@
+name: Update README on Submission
+
+on:
+  push:
+    branches:
+      - main  # Replace 'main' with the name of your default branch if different
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Update README
+        run: |
+          echo "- **${{ github.event.head_commit.message }}** - Submitted on $(date)" >> README.md
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update README.md with new submission"
+          git push

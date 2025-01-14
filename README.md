@@ -28,4 +28,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kaniishka12/DSA-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Kaniishka12/DSA-solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Kaniishka12/DSA-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

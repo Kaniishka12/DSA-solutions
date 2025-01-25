@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Kaniishka12/DSA-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/Kaniishka12/DSA-solutions/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kaniishka12/DSA-solutions/tree/master/0169-majority-element) |
@@ -64,4 +65,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0054-spiral-matrix) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Kaniishka12/DSA-solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->

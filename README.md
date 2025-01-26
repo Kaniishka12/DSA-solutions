@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Kaniishka12/DSA-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Kaniishka12/DSA-solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Kaniishka12/DSA-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Kaniishka12/DSA-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0054-spiral-matrix) |
@@ -49,6 +50,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Kaniishka12/DSA-solutions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Kaniishka12/DSA-solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -61,6 +63,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Kaniishka12/DSA-solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
@@ -69,6 +72,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Kaniishka12/DSA-solutions/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Kaniishka12/DSA-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Kaniishka12/DSA-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

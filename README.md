@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Kaniishka12/DSA-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kaniishka12/DSA-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Kaniishka12/DSA-solutions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0054-spiral-matrix) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kaniishka12/DSA-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kaniishka12/DSA-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Kaniishka12/DSA-solutions/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

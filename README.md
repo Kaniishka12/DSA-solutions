@@ -28,6 +28,7 @@
 | [0141-linked-list-cycle](https://github.com/Kaniishka12/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -59,6 +60,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Kaniishka12/DSA-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Kaniishka12/DSA-solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0234-palindrome-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,5 +135,10 @@
 | [0141-linked-list-cycle](https://github.com/Kaniishka12/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0908-middle-of-the-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->

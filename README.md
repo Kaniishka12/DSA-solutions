@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0015-3sum) |
+| [0061-rotate-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Kaniishka12/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kaniishka12/DSA-solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Kaniishka12/DSA-solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kaniishka12/DSA-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Kaniishka12/DSA-solutions/tree/master/0141-linked-list-cycle) |

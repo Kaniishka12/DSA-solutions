@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0090-subsets-ii) |
 | [0169-majority-element](https://github.com/Kaniishka12/DSA-solutions/tree/master/0169-majority-element) |
+| [0503-next-greater-element-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0948-sort-an-array) |
@@ -153,8 +154,13 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0503-next-greater-element-ii) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->

@@ -83,6 +83,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kaniishka12/DSA-solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0151-reverse-words-in-a-string) |
 ## Matrix
 |  |
@@ -155,6 +156,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Kaniishka12/DSA-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Kaniishka12/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0503-next-greater-element-ii) |

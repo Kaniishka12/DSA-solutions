@@ -75,16 +75,19 @@
 | [0141-linked-list-cycle](https://github.com/Kaniishka12/DSA-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Kaniishka12/DSA-solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Kaniishka12/DSA-solutions/tree/master/0496-next-greater-element-i) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kaniishka12/DSA-solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kaniishka12/DSA-solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -169,4 +172,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kaniishka12/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0503-next-greater-element-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

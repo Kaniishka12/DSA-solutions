@@ -2,62 +2,69 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 class MyStack {
-    private Queue<Integer> q1 = new LinkedList<>();
-    private Queue<Integer> q2 = new LinkedList<>();
+    private Queue<Integer> q1;
+    private Queue<Integer> q2;
 
-    public boolean empty() {  // Renamed from isEmpty() to empty()
-        return q1.isEmpty();
+    // Constructor to initialize the queues
+    public MyStack() {
+        q1 = new LinkedList<>();
+        q2 = new LinkedList<>();
     }
 
-    // Push operation (O(1) time complexity)
+    // Push operation (adds element to the active queue)
     public void push(int data) {
-        q1.add(data);
+        if (!q1.isEmpty()) {
+            q1.add(data);
+        } else {
+            q2.add(data);
+        }
     }
 
-    // Pop operation (O(n) time complexity)
+    // Pop operation (removes and returns the last pushed element)
     public int pop() {
         if (empty()) {
-            System.out.println("empty stack");
-            return -1;
+            return -1; // Stack underflow case
         }
 
-        // Move all elements except the last to q2
-        while (q1.size() > 1) {
-            q2.add(q1.remove());
+        int top = -1;
+        if (!q1.isEmpty()) {
+            while (!q1.isEmpty()) {
+                top = q1.remove();
+                if (q1.isEmpty()) break;
+                q2.add(top);
+            }
+        } else {
+            while (!q2.isEmpty()) {
+                top = q2.remove();
+                if (q2.isEmpty()) break;
+                q1.add(top);
+            }
         }
-
-        // The last element is the top of the stack
-        int top = q1.remove();
-
-        // Swap q1 and q2 so q1 remains the main queue
-        Queue<Integer> temp = q1;
-        q1 = q2;
-        q2 = temp;
 
         return top;
     }
 
-    // Top operation (O(n) time complexity)
+    // Returns the top element without removing it
     public int top() {
         if (empty()) {
-            System.out.println("empty stack");
             return -1;
         }
 
-        // Move all elements except the last to q2
-        while (q1.size() > 1) {
-            q2.add(q1.remove());
+        int top = -1;
+        if (!q1.isEmpty()) {
+            for (int i : q1) {
+                top = i;
+            }
+        } else {
+            for (int i : q2) {
+                top = i;
+            }
         }
-
-        // The last element is the top of the stack
-        int top = q1.peek();
-        q2.add(q1.remove());
-
-        // Swap q1 and q2 so q1 remains the main queue
-        Queue<Integer> temp = q1;
-        q1 = q2;
-        q2 = temp;
-
         return top;
+    }
+
+    // Checks if the stack is empty
+    public boolean empty() {
+        return q1.isEmpty() && q2.isEmpty();
     }
 }

@@ -21,6 +21,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0948-sort-an-array) |
+| [1036-rotting-oranges](https://github.com/Kaniishka12/DSA-solutions/tree/master/1036-rotting-oranges) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Kaniishka12/DSA-solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/Kaniishka12/DSA-solutions/tree/master/2662-check-knight-tour-configuration) |
 ## Two Pointers
@@ -95,6 +96,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kaniishka12/DSA-solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0054-spiral-matrix) |
+| [1036-rotting-oranges](https://github.com/Kaniishka12/DSA-solutions/tree/master/1036-rotting-oranges) |
 | [2662-check-knight-tour-configuration](https://github.com/Kaniishka12/DSA-solutions/tree/master/2662-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -139,6 +141,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1036-rotting-oranges](https://github.com/Kaniishka12/DSA-solutions/tree/master/1036-rotting-oranges) |
 | [2662-check-knight-tour-configuration](https://github.com/Kaniishka12/DSA-solutions/tree/master/2662-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |

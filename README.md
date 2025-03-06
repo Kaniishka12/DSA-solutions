@@ -15,6 +15,7 @@
 | [0054-spiral-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0090-subsets-ii) |
+| [0134-gas-station](https://github.com/Kaniishka12/DSA-solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Kaniishka12/DSA-solutions/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Kaniishka12/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0503-next-greater-element-ii) |
@@ -197,4 +198,8 @@
 | [0155-min-stack](https://github.com/Kaniishka12/DSA-solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Kaniishka12/DSA-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kaniishka12/DSA-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Kaniishka12/DSA-solutions/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->

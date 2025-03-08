@@ -143,6 +143,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2662-check-knight-tour-configuration](https://github.com/Kaniishka12/DSA-solutions/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -150,6 +151,7 @@
 | [0100-same-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1036-rotting-oranges](https://github.com/Kaniishka12/DSA-solutions/tree/master/1036-rotting-oranges) |
 | [2662-check-knight-tour-configuration](https://github.com/Kaniishka12/DSA-solutions/tree/master/2662-check-knight-tour-configuration) |
 ## Bit Manipulation
@@ -229,6 +231,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -238,4 +241,9 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->

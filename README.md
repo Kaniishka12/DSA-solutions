@@ -159,6 +159,7 @@
 | [0100-same-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kaniishka12/DSA-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kaniishka12/DSA-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -241,6 +242,7 @@
 | [0100-same-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0144-binary-tree-preorder-traversal) |
@@ -259,6 +261,7 @@
 | [0100-same-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0144-binary-tree-preorder-traversal) |

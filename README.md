@@ -51,6 +51,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Kaniishka12/DSA-solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Kaniishka12/DSA-solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2662-check-knight-tour-configuration](https://github.com/Kaniishka12/DSA-solutions/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -169,6 +171,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1036-rotting-oranges](https://github.com/Kaniishka12/DSA-solutions/tree/master/1036-rotting-oranges) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Kaniishka12/DSA-solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 | [2662-check-knight-tour-configuration](https://github.com/Kaniishka12/DSA-solutions/tree/master/2662-check-knight-tour-configuration) |
 ## Bit Manipulation
 |  |
@@ -232,6 +235,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Kaniishka12/DSA-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kaniishka12/DSA-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0937-online-stock-span](https://github.com/Kaniishka12/DSA-solutions/tree/master/0937-online-stock-span) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Kaniishka12/DSA-solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Greedy
 |  |
 | ------- |
@@ -262,6 +266,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Kaniishka12/DSA-solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
 |  |
 | ------- |
@@ -299,4 +304,8 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0572-subtree-of-another-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1296-kth-ancestor-of-a-tree-node](https://github.com/Kaniishka12/DSA-solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 <!---LeetCode Topics End-->

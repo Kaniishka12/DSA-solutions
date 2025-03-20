@@ -14,20 +14,25 @@
  * }
  */
 class Solution {
+    private int count = 0;
+    private int result = -1;
+
     public int kthSmallest(TreeNode root, int k) {
-         ArrayList<Integer> list = new ArrayList<>();
-        inorderTraversal(root, list); // Convert tree to sorted list
-        
-        Collections.sort(list); // Sort the list (needed if tree is NOT a BST)
-
-        return list.get(k - 1); // k is 1-based index, so get (k-1)
-    }
-     public static void inorderTraversal(TreeNode root, ArrayList<Integer> list) {
-        if (root == null) return;
-        
-        inorderTraversal(root.left, list);
-        list.add(root.val);
-        inorderTraversal(root.right, list);
+        inorder(root, k);
+        return result;
     }
 
+    private void inorder(TreeNode node, int k) {
+        if (node == null) return;
+
+        inorder(node.left, k); // Left subtree (smaller values)
+
+        count++;
+        if (count == k) {
+            result = node.val;
+            return; // Stop further traversal
+        }
+
+        inorder(node.right, k); // Right subtree (larger values)
+    }
 }

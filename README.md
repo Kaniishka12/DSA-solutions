@@ -24,6 +24,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/Kaniishka12/DSA-solutions/tree/master/1036-rotting-oranges) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Kaniishka12/DSA-solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/Kaniishka12/DSA-solutions/tree/master/2662-check-knight-tour-configuration) |
 ## Two Pointers
@@ -217,6 +218,7 @@
 | [0496-next-greater-element-i](https://github.com/Kaniishka12/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/Kaniishka12/DSA-solutions/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -228,6 +230,7 @@
 | [0496-next-greater-element-i](https://github.com/Kaniishka12/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/Kaniishka12/DSA-solutions/tree/master/0937-online-stock-span) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue
 |  |
 | ------- |
@@ -282,6 +285,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kaniishka12/DSA-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Kaniishka12/DSA-solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Binary Tree
@@ -311,6 +315,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kaniishka12/DSA-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
@@ -323,6 +328,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kaniishka12/DSA-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 ## String Matching
 |  |

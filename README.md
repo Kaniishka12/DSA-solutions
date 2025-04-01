@@ -22,6 +22,7 @@
 | [0496-next-greater-element-i](https://github.com/Kaniishka12/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Kaniishka12/DSA-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/Kaniishka12/DSA-solutions/tree/master/1036-rotting-oranges) |
@@ -88,6 +89,7 @@
 | [0169-majority-element](https://github.com/Kaniishka12/DSA-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Kaniishka12/DSA-solutions/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Kaniishka12/DSA-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Counting
 |  |
 | ------- |
@@ -356,4 +358,8 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Kaniishka12/DSA-solutions/tree/master/0173-binary-search-tree-iterator) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Kaniishka12/DSA-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

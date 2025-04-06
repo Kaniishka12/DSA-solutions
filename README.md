@@ -156,6 +156,7 @@
 | [0110-balanced-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kaniishka12/DSA-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Kaniishka12/DSA-solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -282,6 +283,7 @@
 | [0110-balanced-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kaniishka12/DSA-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Kaniishka12/DSA-solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -313,6 +315,7 @@
 | [0110-balanced-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0110-balanced-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Kaniishka12/DSA-solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Kaniishka12/DSA-solutions/tree/master/0173-binary-search-tree-iterator) |
@@ -353,6 +356,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Kaniishka12/DSA-solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
 ## Iterator
 |  |

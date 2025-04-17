@@ -367,6 +367,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Kaniishka12/DSA-solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kaniishka12/DSA-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Iterator
 |  |
 | ------- |
@@ -385,6 +386,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Kaniishka12/DSA-solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/Kaniishka12/DSA-solutions/tree/master/0684-redundant-connection) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kaniishka12/DSA-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Kaniishka12/DSA-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Topological Sort
 |  |
@@ -394,4 +396,8 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/Kaniishka12/DSA-solutions/tree/master/1706-min-cost-to-connect-all-points) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kaniishka12/DSA-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->

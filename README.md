@@ -183,6 +183,7 @@
 | [0733-flood-fill](https://github.com/Kaniishka12/DSA-solutions/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0801-is-graph-bipartite](https://github.com/Kaniishka12/DSA-solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kaniishka12/DSA-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Kaniishka12/DSA-solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -206,6 +207,7 @@
 | [0684-redundant-connection](https://github.com/Kaniishka12/DSA-solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Kaniishka12/DSA-solutions/tree/master/0733-flood-fill) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0801-is-graph-bipartite](https://github.com/Kaniishka12/DSA-solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kaniishka12/DSA-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1036-rotting-oranges](https://github.com/Kaniishka12/DSA-solutions/tree/master/1036-rotting-oranges) |
 | [1296-kth-ancestor-of-a-tree-node](https://github.com/Kaniishka12/DSA-solutions/tree/master/1296-kth-ancestor-of-a-tree-node) |
@@ -395,6 +397,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Kaniishka12/DSA-solutions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Kaniishka12/DSA-solutions/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/Kaniishka12/DSA-solutions/tree/master/0801-is-graph-bipartite) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Kaniishka12/DSA-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph
 |  |
@@ -402,6 +405,7 @@
 | [0207-course-schedule](https://github.com/Kaniishka12/DSA-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0210-course-schedule-ii) |
 | [0684-redundant-connection](https://github.com/Kaniishka12/DSA-solutions/tree/master/0684-redundant-connection) |
+| [0801-is-graph-bipartite](https://github.com/Kaniishka12/DSA-solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kaniishka12/DSA-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kaniishka12/DSA-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Kaniishka12/DSA-solutions/tree/master/1706-min-cost-to-connect-all-points) |

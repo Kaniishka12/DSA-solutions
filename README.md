@@ -179,6 +179,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kaniishka12/DSA-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Kaniishka12/DSA-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Kaniishka12/DSA-solutions/tree/master/0684-redundant-connection) |
@@ -206,6 +207,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kaniishka12/DSA-solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/Kaniishka12/DSA-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/Kaniishka12/DSA-solutions/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/Kaniishka12/DSA-solutions/tree/master/0733-flood-fill) |
@@ -399,6 +401,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kaniishka12/DSA-solutions/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/Kaniishka12/DSA-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Kaniishka12/DSA-solutions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Kaniishka12/DSA-solutions/tree/master/0801-is-graph-bipartite) |
 | [1706-min-cost-to-connect-all-points](https://github.com/Kaniishka12/DSA-solutions/tree/master/1706-min-cost-to-connect-all-points) |
@@ -408,6 +411,7 @@
 | [0133-clone-graph](https://github.com/Kaniishka12/DSA-solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/Kaniishka12/DSA-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/Kaniishka12/DSA-solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Kaniishka12/DSA-solutions/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/Kaniishka12/DSA-solutions/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kaniishka12/DSA-solutions/tree/master/0803-cheapest-flights-within-k-stops) |

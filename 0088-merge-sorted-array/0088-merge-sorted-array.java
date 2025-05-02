@@ -1,27 +1,27 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-         int left = m - 1; 
-        int right = 0;   
-
-        
-         while (left >= 0 && right < n) {
-            if (nums1[left] > nums2[right]) {
-              
-                int temp = nums1[left];
-                nums1[left] = nums2[right];
-                nums2[right] = temp;
+        int i=m-1;
+        int j=n-1;
+        int idx=nums1.length-1;
+        while(i>=0 && j>=0){
+            if(nums1[i]>=nums2[j]){
+                nums1[idx]=nums1[i];
+                idx--;
+                i--;
+                
             }
-            left--;
-            right++;
-        }
 
-      
-        Arrays.sort(nums1, 0, m); 
-        Arrays.sort(nums2);     
-
-       
-        for (int i = 0; i < n; i++) {
-            nums1[m + i] = nums2[i];
+            else{
+                nums1[idx]=nums2[j];
+                idx--;
+                j--;
+            }
         }
+        while(j>=0){
+            nums1[idx]=nums2[j];
+                idx--;
+                j--; 
+        }
+        
     }
 }

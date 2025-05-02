@@ -33,6 +33,7 @@
 | [1706-min-cost-to-connect-all-points](https://github.com/Kaniishka12/DSA-solutions/tree/master/1706-min-cost-to-connect-all-points) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Kaniishka12/DSA-solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/Kaniishka12/DSA-solutions/tree/master/2662-check-knight-tour-configuration) |
+| [3227-find-missing-and-repeated-values](https://github.com/Kaniishka12/DSA-solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kaniishka12/DSA-solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Kaniishka12/DSA-solutions/tree/master/0050-powx-n) |
+| [3227-find-missing-and-repeated-values](https://github.com/Kaniishka12/DSA-solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Kaniishka12/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaniishka12/DSA-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3227-find-missing-and-repeated-values](https://github.com/Kaniishka12/DSA-solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
 | ------- |
@@ -117,6 +120,7 @@
 | [0733-flood-fill](https://github.com/Kaniishka12/DSA-solutions/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Kaniishka12/DSA-solutions/tree/master/1036-rotting-oranges) |
 | [2662-check-knight-tour-configuration](https://github.com/Kaniishka12/DSA-solutions/tree/master/2662-check-knight-tour-configuration) |
+| [3227-find-missing-and-repeated-values](https://github.com/Kaniishka12/DSA-solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |

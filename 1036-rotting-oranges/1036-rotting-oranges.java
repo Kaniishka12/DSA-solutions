@@ -22,7 +22,7 @@ class Solution {
         // if not rotten
         else {
           vis[i][j] = 0;
-        }
+        } 
 
         // count fresh oranges
         if (grid[i][j] == 1) cntFresh++;

@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kaniishka12/DSA-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Kaniishka12/DSA-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Kaniishka12/DSA-solutions/tree/master/0037-sudoku-solver) |
@@ -40,6 +41,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kaniishka12/DSA-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0088-merge-sorted-array) |
@@ -301,6 +303,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Kaniishka12/DSA-solutions/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Kaniishka12/DSA-solutions/tree/master/0134-gas-station) |
 ## Data Stream
 |  |

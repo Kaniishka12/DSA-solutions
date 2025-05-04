@@ -14,6 +14,7 @@
 | [0051-n-queens](https://github.com/Kaniishka12/DSA-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Kaniishka12/DSA-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -60,6 +61,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Kaniishka12/DSA-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/Kaniishka12/DSA-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -118,6 +120,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kaniishka12/DSA-solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Kaniishka12/DSA-solutions/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Kaniishka12/DSA-solutions/tree/master/0733-flood-fill) |

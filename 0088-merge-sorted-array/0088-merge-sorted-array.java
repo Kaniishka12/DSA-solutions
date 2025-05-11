@@ -6,22 +6,20 @@ class Solution {
         while(i>=0 && j>=0){
             if(nums1[i]>=nums2[j]){
                 nums1[idx]=nums1[i];
-                idx--;
                 i--;
-                
-            }
-
-            else{
+                idx--;
+            }else{
                 nums1[idx]=nums2[j];
+                
                 idx--;
                 j--;
             }
-        }
+        } 
         while(j>=0){
-            nums1[idx]=nums2[j];
+             nums1[idx]=nums2[j];
+                j--;
                 idx--;
-                j--; 
-        }
+        }  
         
     }
 }

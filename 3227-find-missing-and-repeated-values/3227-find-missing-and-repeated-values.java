@@ -17,7 +17,7 @@ class Solution {
     for(int i=1;i<=n*n;i++){
         if(!h.contains(i)){
             b=i;
-            break;
+        
         }
     }
     return new int[]{a,b};

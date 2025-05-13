@@ -124,6 +124,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Kaniishka12/DSA-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0054-spiral-matrix) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Kaniishka12/DSA-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Kaniishka12/DSA-solutions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2662-check-knight-tour-configuration](https://github.com/Kaniishka12/DSA-solutions/tree/master/2662-check-knight-tour-configuration) |
 ## Backtracking
@@ -279,6 +281,7 @@
 | [0503-next-greater-element-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/Kaniishka12/DSA-solutions/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Kaniishka12/DSA-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Doubly-Linked List
 |  |
 | ------- |

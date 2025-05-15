@@ -26,6 +26,7 @@
 | [0134-gas-station](https://github.com/Kaniishka12/DSA-solutions/tree/master/0134-gas-station) |
 | [0169-majority-element](https://github.com/Kaniishka12/DSA-solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Kaniishka12/DSA-solutions/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Kaniishka12/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/Kaniishka12/DSA-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Kaniishka12/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0503-next-greater-element-ii) |
@@ -62,6 +63,7 @@
 | [0075-sort-colors](https://github.com/Kaniishka12/DSA-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kaniishka12/DSA-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Kaniishka12/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
@@ -107,6 +109,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Kaniishka12/DSA-solutions/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Kaniishka12/DSA-solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Kaniishka12/DSA-solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Kaniishka12/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaniishka12/DSA-solutions/tree/master/0560-subarray-sum-equals-k) |

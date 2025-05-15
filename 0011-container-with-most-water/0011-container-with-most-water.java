@@ -3,19 +3,17 @@ class Solution {
         int l=0;
         int r=height.length-1;
         int ma=0;
-        int lm,rm;
         while(l<r){
-            lm=height[l];
-            rm=height[r];
-            int mnh=Math.min(lm,rm);
-            ma=Math.max(ma,mnh*(r-l));
-            if(lm<rm){
+            int left=height[l];
+            int right=height[r];
+            int minh=Math.min(left,right);
+            ma=Math.max(ma,minh*(r-l));
+            if(left<right){
                 l++;
             }else{
                 r--;
             }
         }
-        return ma;
-
+return ma;
     }
 }

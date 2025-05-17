@@ -56,6 +56,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Kaniishka12/DSA-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/Kaniishka12/DSA-solutions/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -129,6 +130,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/Kaniishka12/DSA-solutions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Kaniishka12/DSA-solutions/tree/master/0459-repeated-substring-pattern) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kaniishka12/DSA-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Matrix

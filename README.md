@@ -129,6 +129,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Kaniishka12/DSA-solutions/tree/master/0459-repeated-substring-pattern) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kaniishka12/DSA-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
@@ -407,6 +408,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Kaniishka12/DSA-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |

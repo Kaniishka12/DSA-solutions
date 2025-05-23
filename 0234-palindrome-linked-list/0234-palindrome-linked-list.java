@@ -10,9 +10,9 @@
  */
 class Solution {
     public boolean isPalindrome(ListNode head) {
-       if(head==null||head.next==null){
-           return true;
-       }
+      if(head==null || head.next==null){
+        return true;
+      }
         //mid
         ListNode slow=head;
         ListNode fast=head;
@@ -30,17 +30,15 @@ class Solution {
             prev=curr;
             curr=next;
         }
-        //halfs balance
-        ListNode left=head;
-        ListNode right=prev;
-        while(right!=null){
-            if(left.val!=right.val){
-                return false;
-            }
-            left=left.next;
-            right=right.next;
+       ListNode left=head;
+       ListNode right=prev;
+       while(right!=null){
+        if(left.val!=right.val){
+            return false;
         }
+        left=left.next;
+        right=right.next;
+       }
         return true;
-        
     }
 }

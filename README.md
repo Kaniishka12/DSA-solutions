@@ -34,6 +34,7 @@
 | [0542-01-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaniishka12/DSA-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/Kaniishka12/DSA-solutions/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/Kaniishka12/DSA-solutions/tree/master/0739-daily-temperatures) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0948-sort-an-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0948-sort-an-array) |
 | [1036-rotting-oranges](https://github.com/Kaniishka12/DSA-solutions/tree/master/1036-rotting-oranges) |
@@ -292,6 +293,7 @@
 | [0234-palindrome-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Kaniishka12/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Kaniishka12/DSA-solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Kaniishka12/DSA-solutions/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kaniishka12/DSA-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -305,6 +307,7 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kaniishka12/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Kaniishka12/DSA-solutions/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Kaniishka12/DSA-solutions/tree/master/0937-online-stock-span) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Queue

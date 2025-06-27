@@ -1,19 +1,21 @@
 class Solution {
+    private boolean isBalanced = true;
+
     public boolean isBalanced(TreeNode root) {
-        return height(root) != -1;
+        check(root);
+        return isBalanced;
     }
 
-    private int height(TreeNode root) {
-        if (root == null) return 0; // Base case: empty tree has height 0
+    private int check(TreeNode node) {
+        if (node == null) return 0;
 
-        int lh = height(root.left);
-        if (lh == -1) return -1; // Left subtree is unbalanced
+        int left = check(node.left);
+        int right = check(node.right);
 
-        int rh = height(root.right);
-        if (rh == -1) return -1; // Right subtree is unbalanced
+        if (Math.abs(left - right) > 1) {
+            isBalanced = false;
+        }
 
-        if (Math.abs(lh - rh) > 1) return -1; // Current tree is unbalanced
-
-        return Math.max(lh, rh) + 1; // Return correct height
+        return Math.max(left, right) + 1;
     }
 }

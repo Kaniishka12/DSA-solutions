@@ -1,31 +1,24 @@
 class Solution {
     public List<List<Integer>> permute(int[] nums) {
-        // Initialize the result list
-        List<List<Integer>> result = new ArrayList<>();
-        // Call the recursive function
-        findPermutation(nums, new ArrayList<>(), result);
-        return result;
+        List<List<Integer>> ans=new ArrayList<>();
+        List<Integer> ds=new ArrayList<>();
+        helper(nums,ans,ds);
+        return ans;
     }
-
-    private void findPermutation(int[] nums, List<Integer> current, List<List<Integer>> result) {
-        // Base case: If the current permutation's size equals the array length, add it to the result
-        if (current.size() == nums.length) {
-            result.add(new ArrayList<>(current));
-            return;
+    public void helper(int[] nums,List<List<Integer>> ans,List<Integer> ds){
+        if(ds.size()==nums.length){
+            ans.add(new ArrayList<Integer>(ds));
+        }
+        for(int num:nums){
+            if(ds.contains(num)) continue;
+            ds.add(num);
+            helper(nums,ans,ds);
+            ds.remove(ds.size()-1);
         }
 
-        // Iterate through the array
-        for (int num : nums) {
-            // Skip the number if it is already in the current permutation
-            if (current.contains(num)) continue;
-
-            // Add the number to the current permutation
-            current.add(num);
-            // Recursive call
-            findPermutation(nums, current, result);
-            // Backtrack: Remove the last added number
-            current.remove(current.size() - 1);
-        }
     }
+
+    
+    
 }
 

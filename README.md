@@ -19,6 +19,7 @@
 | [0054-spiral-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Kaniishka12/DSA-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Kaniishka12/DSA-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Kaniishka12/DSA-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0090-subsets-ii) |
@@ -169,6 +170,7 @@
 | [0040-combination-sum-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kaniishka12/DSA-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Kaniishka12/DSA-solutions/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/Kaniishka12/DSA-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Kaniishka12/DSA-solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0090-subsets-ii) |
 ## Heap (Priority Queue)
@@ -262,6 +264,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Kaniishka12/DSA-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Kaniishka12/DSA-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Linked List

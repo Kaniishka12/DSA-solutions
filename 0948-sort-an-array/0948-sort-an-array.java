@@ -1,34 +1,40 @@
 class Solution {
     public int[] sortArray(int[] nums) {
-        if (nums == null || nums.length == 0) return nums;
-        mergeSort(nums, 0, nums.length - 1);
-        return nums;
+       mergesort(nums,0,nums.length-1);
+       return nums;
     }
+    public void mergesort(int[] nums,int l,int h){
+      
+        if(l<h){
+           int mid=(l+h)/2;
+           mergesort(nums,l,mid);
+        mergesort(nums,mid+1,h);
+        merge(nums,l,mid,h);
+        }
+        
 
-    private void mergeSort(int[] arr, int left, int right) {
-        if (left >= right) return;
-
-        int mid = left + (right - left) / 2;
-        mergeSort(arr, left, mid);
-        mergeSort(arr, mid + 1, right);
-        merge(arr, left, mid, right);
     }
-
-    private void merge(int[] arr, int left, int mid, int right) {
-        int[] temp = new int[right - left + 1];
-        int i = left, j = mid + 1, k = 0;
-
-        while (i <= mid && j <= right) {
-            if (arr[i] <= arr[j]) {
-                temp[k++] = arr[i++];
-            } else {
-                temp[k++] = arr[j++];
+    public void merge(int nums[],int l,int mid,int h){
+        ArrayList<Integer> temp=new ArrayList<>();
+        int i=l;
+        int j=mid+1;
+        while(i<=mid && j<=h){
+            if(nums[i]<=nums[j]){
+                temp.add(nums[i++]);
+            }
+            else{
+                temp.add(nums[j++]);
             }
         }
-
-        while (i <= mid) temp[k++] = arr[i++];
-        while (j <= right) temp[k++] = arr[j++];
-
-        System.arraycopy(temp, 0, arr, left, temp.length);
+        while(i<=mid){
+            temp.add(nums[i++]);
+        }
+        while(j<=h){
+            temp.add(nums[j++]);
+        }
+        for(int k=l;k<=h;k++){
+            nums[k]=temp.get(k-l);
+        }
     }
 }
+

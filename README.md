@@ -26,6 +26,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaniishka12/DSA-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/Kaniishka12/DSA-solutions/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/Kaniishka12/DSA-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Kaniishka12/DSA-solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Kaniishka12/DSA-solutions/tree/master/0169-majority-element) |
 | [0200-number-of-islands](https://github.com/Kaniishka12/DSA-solutions/tree/master/0200-number-of-islands) |
@@ -269,6 +270,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Kaniishka12/DSA-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Kaniishka12/DSA-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kaniishka12/DSA-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Linked List
 |  |

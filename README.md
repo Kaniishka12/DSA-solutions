@@ -116,6 +116,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kaniishka12/DSA-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kaniishka12/DSA-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Kaniishka12/DSA-solutions/tree/master/0037-sudoku-solver) |
 | [0133-clone-graph](https://github.com/Kaniishka12/DSA-solutions/tree/master/0133-clone-graph) |
@@ -138,6 +139,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kaniishka12/DSA-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kaniishka12/DSA-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Kaniishka12/DSA-solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Kaniishka12/DSA-solutions/tree/master/0079-word-search) |
@@ -499,4 +501,8 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Kaniishka12/DSA-solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Kaniishka12/DSA-solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Kaniishka12/DSA-solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kaniishka12/DSA-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

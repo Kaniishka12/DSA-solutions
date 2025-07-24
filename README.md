@@ -14,6 +14,7 @@
 | [0037-sudoku-solver](https://github.com/Kaniishka12/DSA-solutions/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Kaniishka12/DSA-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Kaniishka12/DSA-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Kaniishka12/DSA-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Kaniishka12/DSA-solutions/tree/master/0053-maximum-subarray) |
@@ -57,6 +58,7 @@
 | [0015-3sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/Kaniishka12/DSA-solutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Kaniishka12/DSA-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0088-merge-sorted-array) |
@@ -305,6 +307,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kaniishka12/DSA-solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Kaniishka12/DSA-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kaniishka12/DSA-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -329,6 +332,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kaniishka12/DSA-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Kaniishka12/DSA-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Kaniishka12/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Kaniishka12/DSA-solutions/tree/master/0503-next-greater-element-ii) |
@@ -454,6 +458,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Kaniishka12/DSA-solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Kaniishka12/DSA-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kaniishka12/DSA-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Kaniishka12/DSA-solutions/tree/master/0124-binary-tree-maximum-path-sum) |

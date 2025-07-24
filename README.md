@@ -18,6 +18,7 @@
 | [0051-n-queens](https://github.com/Kaniishka12/DSA-solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Kaniishka12/DSA-solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Kaniishka12/DSA-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Kaniishka12/DSA-solutions/tree/master/0078-subsets) |
@@ -119,6 +120,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kaniishka12/DSA-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kaniishka12/DSA-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Kaniishka12/DSA-solutions/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/Kaniishka12/DSA-solutions/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Kaniishka12/DSA-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Kaniishka12/DSA-solutions/tree/master/0141-linked-list-cycle) |
@@ -155,6 +157,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kaniishka12/DSA-solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Kaniishka12/DSA-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Kaniishka12/DSA-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Kaniishka12/DSA-solutions/tree/master/0200-number-of-islands) |

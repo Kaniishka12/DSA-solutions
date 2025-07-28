@@ -72,6 +72,7 @@
 | [0234-palindrome-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Kaniishka12/DSA-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Kaniishka12/DSA-solutions/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Kaniishka12/DSA-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -142,6 +143,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Kaniishka12/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaniishka12/DSA-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0567-permutation-in-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/Kaniishka12/DSA-solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Counting
 |  |
@@ -162,6 +164,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Kaniishka12/DSA-solutions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Kaniishka12/DSA-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0567-permutation-in-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kaniishka12/DSA-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
@@ -526,4 +529,5 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kaniishka12/DSA-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->

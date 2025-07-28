@@ -82,6 +82,7 @@
 | [0088-merge-sorted-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Kaniishka12/DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kaniishka12/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Kaniishka12/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0948-sort-an-array](https://github.com/Kaniishka12/DSA-solutions/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
@@ -137,6 +138,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/Kaniishka12/DSA-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Kaniishka12/DSA-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Kaniishka12/DSA-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Kaniishka12/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Kaniishka12/DSA-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Kaniishka12/DSA-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -155,6 +157,7 @@
 | [0079-word-search](https://github.com/Kaniishka12/DSA-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Kaniishka12/DSA-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Kaniishka12/DSA-solutions/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Kaniishka12/DSA-solutions/tree/master/0443-string-compression) |

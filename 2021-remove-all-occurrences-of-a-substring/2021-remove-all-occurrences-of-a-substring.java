@@ -3,7 +3,7 @@ class Solution {
             StringBuilder sk=new StringBuilder(s);
             while(sk.toString().contains(part)){
                  int index=sk.indexOf(part);
-                 sk.delete(index,index+part.length());
+                sk.delete(index,index+part.length());
             }
 return sk.toString();
     }

@@ -165,6 +165,7 @@
 | [0443-string-compression](https://github.com/Kaniishka12/DSA-solutions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/Kaniishka12/DSA-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0567-permutation-in-string) |
+| [1508-longest-happy-prefix](https://github.com/Kaniishka12/DSA-solutions/tree/master/1508-longest-happy-prefix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Kaniishka12/DSA-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
@@ -463,10 +464,12 @@
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Kaniishka12/DSA-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0572-subtree-of-another-tree) |
+| [1508-longest-happy-prefix](https://github.com/Kaniishka12/DSA-solutions/tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0572-subtree-of-another-tree) |
+| [1508-longest-happy-prefix](https://github.com/Kaniishka12/DSA-solutions/tree/master/1508-longest-happy-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -530,4 +533,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kaniishka12/DSA-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Kaniishka12/DSA-solutions/tree/master/0567-permutation-in-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [1508-longest-happy-prefix](https://github.com/Kaniishka12/DSA-solutions/tree/master/1508-longest-happy-prefix) |
 <!---LeetCode Topics End-->

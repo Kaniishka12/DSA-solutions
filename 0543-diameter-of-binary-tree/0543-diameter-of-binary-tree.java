@@ -6,15 +6,17 @@ class Solution {
         return maxDiameter; // Return the maximum diameter found
     }
 
-    private int height(TreeNode node) {
-        if (node == null) return 0; // Base case: height of null node is 0
+    private int height(TreeNode node){
+        if(node==null){
+            return 0;
+        }
+        int lh=height(node.left);
+        int rh=height(node.right);
+        maxDiameter=Math.max(maxDiameter,lh+rh);
+        return 1+Math.max(lh,rh);
 
-        int leftHeight = height(node.left);  // Recursively get left subtree height
-        int rightHeight = height(node.right); // Recursively get right subtree height
 
-        // Update maxDiameter (edges between left and right subtrees)
-        maxDiameter = Math.max(maxDiameter, leftHeight + rightHeight);
 
-        return 1 + Math.max(leftHeight, rightHeight); // Return height of current node
+
     }
 }

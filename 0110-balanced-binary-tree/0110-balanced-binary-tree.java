@@ -7,15 +7,15 @@ class Solution {
     }
 
     private int check(TreeNode node) {
-        if (node == null) return 0;
+     if(node==null){
+        return 0;
+     }
+     int lh=check(node.left);
+     int rh=check(node.right);
 
-        int left = check(node.left);
-        int right = check(node.right);
-
-        if (Math.abs(left - right) > 1) {
-            isBalanced = false;
-        }
-
-        return Math.max(left, right) + 1;
+     if(Math.abs(rh-lh)>1){
+        isBalanced=false;
+     }
+     return Math.max(lh,rh)+1;
     }
 }

@@ -249,6 +249,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kaniishka12/DSA-solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Kaniishka12/DSA-solutions/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0572-subtree-of-another-tree) |
@@ -406,6 +407,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kaniishka12/DSA-solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -439,6 +441,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Kaniishka12/DSA-solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0662-maximum-width-of-binary-tree) |
@@ -455,6 +458,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Kaniishka12/DSA-solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Kaniishka12/DSA-solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Kaniishka12/DSA-solutions/tree/master/0538-convert-bst-to-greater-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Kaniishka12/DSA-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Kaniishka12/DSA-solutions/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Kaniishka12/DSA-solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |

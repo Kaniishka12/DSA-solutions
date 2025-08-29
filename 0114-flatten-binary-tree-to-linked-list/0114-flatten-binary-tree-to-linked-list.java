@@ -15,28 +15,20 @@
  */
 class Solution {
     public void flatten(TreeNode root) {
-        dfs(root);
+       if(root==null){
+        return;
+       }
+       flatten(root.left);
+       flatten(root.right);
+       TreeNode temp=root.right;
+       root.right=root.left;
+       root.left=null;
+       TreeNode curr=root;
+       while(curr.right!=null){
+        curr=curr.right;
+       }
+       curr.right=temp;
     }
 
-    private TreeNode[] dfs(TreeNode node) {
-        if (node == null) return new TreeNode[]{null, null};
-
-        TreeNode[] left = dfs(node.left);
-        TreeNode[] right = dfs(node.right);
-
-        node.left = null;  // Set left child to null as per the requirements
-        TreeNode end = node;
-
-        if (left[0] != null) {
-            end.right = left[0];
-            end = left[1];
-        }
-
-        if (right[0] != null) {
-            end.right = right[0];
-            end = right[1];
-        }
-
-        return new TreeNode[]{node, end};
-    }
+    
 }
